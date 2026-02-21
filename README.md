@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/ashi8893/Leetcode/tree/master/0504-base-7) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/ashi8893/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/ashi8893/Leetcode/tree/master/0782-jewels-and-stones) |
+## Simulation
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/ashi8893/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
