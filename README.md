@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ashi8893/Leetcode/tree/master/0007-reverse-integer) |
 | [0504-base-7](https://github.com/ashi8893/Leetcode/tree/master/0504-base-7) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ashi8893/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
