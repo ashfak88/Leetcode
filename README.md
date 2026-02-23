@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ashi8893/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/ashi8893/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashi8893/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
 | [1528-shuffle-string](https://github.com/ashi8893/Leetcode/tree/master/1528-shuffle-string) |
 | [3248-snake-in-matrix](https://github.com/ashi8893/Leetcode/tree/master/3248-snake-in-matrix) |
 ## Stack
@@ -53,8 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashi8893/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashi8893/Leetcode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
