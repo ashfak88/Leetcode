@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ashi8893/Leetcode/tree/master/0504-base-7) |
 | [0782-jewels-and-stones](https://github.com/ashi8893/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/ashi8893/Leetcode/tree/master/1528-shuffle-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashi8893/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3248-snake-in-matrix](https://github.com/ashi8893/Leetcode/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashi8893/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3248-snake-in-matrix](https://github.com/ashi8893/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ashi8893/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Array
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1528-shuffle-string](https://github.com/ashi8893/Leetcode/tree/master/1528-shuffle-string) |
 | [3248-snake-in-matrix](https://github.com/ashi8893/Leetcode/tree/master/3248-snake-in-matrix) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashi8893/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
