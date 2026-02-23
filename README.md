@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ashi8893/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ashi8893/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/ashi8893/Leetcode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/ashi8893/Leetcode/tree/master/0504-base-7) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ashi8893/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ashi8893/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ashi8893/Leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/ashi8893/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashi8893/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ashi8893/Leetcode/tree/master/0268-missing-number) |
 | [1528-shuffle-string](https://github.com/ashi8893/Leetcode/tree/master/1528-shuffle-string) |
 | [3248-snake-in-matrix](https://github.com/ashi8893/Leetcode/tree/master/3248-snake-in-matrix) |
 ## Stack
@@ -64,8 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ashi8893/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashi8893/Leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ashi8893/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ashi8893/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
