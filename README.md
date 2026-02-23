@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashi8893/Leetcode/tree/master/0053-maximum-subarray) |
 | [1528-shuffle-string](https://github.com/ashi8893/Leetcode/tree/master/1528-shuffle-string) |
 | [3248-snake-in-matrix](https://github.com/ashi8893/Leetcode/tree/master/3248-snake-in-matrix) |
 ## Stack
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashi8893/Leetcode/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashi8893/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashi8893/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashi8893/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
