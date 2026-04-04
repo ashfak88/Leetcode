@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ashi8893/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/ashi8893/Leetcode/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashi8893/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2129-capitalize-the-title](https://github.com/ashi8893/Leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [3248-snake-in-matrix](https://github.com/ashi8893/Leetcode/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 | Problem Name | Difficulty |
