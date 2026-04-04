@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashi8893/Leetcode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/ashi8893/Leetcode/tree/master/0504-base-7) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashi8893/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ashi8893/Leetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ashi8893/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
 | Problem Name | Difficulty |
